@@ -1,0 +1,10 @@
+git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks commit -q -F C:\Users\NonlicenseKnight\AppData\Local\Temp\sa4hxrxg.5t2
+
+git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks push -v --tags --set-upstream origin master:master
+Pushing to git@github.com:saguoran/Xamarin.git
+The server's host key is not cached in the registry. You
+have no guarantee that the server is the computer you
+think it is.
+The server's rsa2 key fingerprint is:
+ssh-rsa 2048 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
+If you trust this host, enter "y" to add the key to
